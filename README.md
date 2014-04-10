@@ -45,7 +45,7 @@ Add:
 // Update Currencies
 $controller->addPreAction(new Action('common/dogecoin_update'));
 
-Enjoy!  Please contact support@btcgear.com with any issues you may have.
+Much wow!  Please contact stephanejrbres@gmail.com with any issues you may have.
 
 Copyright (c) 2014 Stephane Bres (jga)
 Copyright (c) 2013 John Atkinson (jga)

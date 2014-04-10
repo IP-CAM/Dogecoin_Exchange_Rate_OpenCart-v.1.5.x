@@ -1,7 +1,11 @@
 Dogecoin Exchange Rate
+
 OpenCart Extension
+
 Adapted by Stephane Bres @StephBres
+
 Donations: DBjYqjDT5exc5HP88cyYQ3PnLRWinuiRF7
+
 Donations: 1PMnrNJQ6BC58YRZrmjo56MfXw3V4k4b7g
 
 
@@ -41,7 +45,7 @@ Add:
 // Update Currencies
 $controller->addPreAction(new Action('common/dogecoin_update'));
 
-Enjoy!  Please contact support@btcgear.com with any issues you may have.
+Much wow!  Please contact stephanejrbres@gmail.com with any issues you may have.
 
 Copyright (c) 2014 Stephane Bres (jga)
 Copyright (c) 2013 John Atkinson (jga)
