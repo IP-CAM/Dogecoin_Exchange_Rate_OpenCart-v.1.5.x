@@ -1,7 +1,11 @@
 Dogecoin Exchange Rate
+
 OpenCart Extension
+
 Adapted by Stephane Bres @StephBres
+
 Donations: DBjYqjDT5exc5HP88cyYQ3PnLRWinuiRF7
+
 Donations: 1PMnrNJQ6BC58YRZrmjo56MfXw3V4k4b7g
 
 
