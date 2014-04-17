@@ -82,10 +82,9 @@ class ControllerCommondogecoinUpdate extends Controller {
 		$data = json_decode($json, true);
 		$amount = $data['data']['amount'];
 		$amount = $amount * 0.72;// Here we transform Into Euros Delete this line if you only want To convert into USD
-		$amount = 1000 / $amount;
-				
 		if ((float)$amount)
 		{
+			$amount = 1000 / $amount;
 			$value = $amount;
 			$this->db->query("UPDATE " . DB_PREFIX . "currency SET value = '" . (float)$value . "', date_modified = '" .  $this->db->escape(date('Y-m-d H:i:s')) . "' WHERE code = '" . $this->db->escape($currency) . "'");
 		}
